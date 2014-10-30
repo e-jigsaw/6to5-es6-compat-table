@@ -1,0 +1,1 @@
+closure-compiler-es6-compat-table/generate-inputs.js

@@ -1,0 +1,6 @@
+[submodule "closure-compiler-es6-compat-table"]
+	path = closure-compiler-es6-compat-table
+	url = https://github.com/e-jigsaw/closure-compiler-es6-compat-table.git
+[submodule "compat-table"]
+	path = compat-table
+	url = https://github.com/kangax/compat-table.git
